@@ -1,4 +1,4 @@
-const { buildSearchEngine } = require("../index.js");
+const buildSearchEngine = require("../index.js");
 
 const { test, expect } = require("@jest/globals");
 

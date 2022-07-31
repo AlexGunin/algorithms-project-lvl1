@@ -33,4 +33,4 @@ const buildSearchEngine = (docs) => {
   return new SearchEngine(docs);
 };
 
-module.exports = { buildSearchEngine };
+module.exports = buildSearchEngine;

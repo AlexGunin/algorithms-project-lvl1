@@ -1,3 +1,3 @@
-const { buildSearchEngine } = require("./src/searchEngine");
+const buildSearchEngine = require("./src/searchEngine");
 
-module.exports = { buildSearchEngine };
+module.exports = buildSearchEngine;
